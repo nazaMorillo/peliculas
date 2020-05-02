@@ -1,0 +1,98 @@
+/* *{
+    box-shadow: 0px 0px 1px red;
+} */
+/* body{
+    background-color: green;
+} */
+/* .logo{
+    color: white;
+    margin:0px;
+}
+ul.errores{
+    padding: 0px;
+}
+
+.errores li{
+    list-style: none;
+}
+section{
+    margin: 5px 25px;
+}
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+header ul {
+    margin: 10px 20px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+header ul a {
+    list-style: none;          
+}
+
+header ul a:hover {
+    text-decoration: none;         
+}
+header ul a li{
+    display: block;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+.page-link{
+    background-color: #333;
+    color: white;
+}
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+.campo{
+    margin: 5px 0;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.campo input{
+    width: 250px;
+}
+ul li.list-group-item{
+    display: flex;
+    justify-content: space-between;
+} */
+.error{
+    border-color : red;
+}
+
+ul li {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li:nth-child(even){
+    background-color: #ccc;
+}
+
+.btnBorrar , .btnEditar{
+    border-color: white;
+    border-radius: 50px;
+    color: white;
+}
+
+.btnBorrar{
+    background-color: red;   
+}
+
+.btnEditar{
+    right: 30px;
+    background-color: orange;
+}
